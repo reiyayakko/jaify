@@ -1,0 +1,20 @@
+{
+  "name": "jaify",
+  "version": "0.0.1",
+  "description": "Convert romaji sentences to Japanese.",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reiyayakko/jaify.git"
+  },
+  "author": "reiyayakko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reiyayakko/jaify/issues"
+  },
+  "homepage": "https://github.com/reiyayakko/jaify#readme"
+}
